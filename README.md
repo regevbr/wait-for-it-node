@@ -1,11 +1,11 @@
-# node-wait-for-it
+# wait-for-it-node
 
 This is just a simple wrapper for the awesome [wait-for-it](https://github.com/vishnubob/wait-for-it) bash script.
 
 ## Install
 
 ```
-$ npm install -g node-wait-for-it
+$ npm install -g wait-for-it-node
 ```
 
 ## License
